@@ -82,10 +82,3 @@ resource "aws_s3_bucket_notification" "dowhile_2021" {
     filter_suffix = ".log"
   }
 }
-
-// terraform init
-// terraform fmt
-// terraform validate
-// terraform apply
-// terraform show
-// terraform destroy
